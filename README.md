@@ -1,4 +1,4 @@
-# 테스트중
+# 12 psring-mission
 
 ㅇㅋㅇㅋ
 
@@ -40,4 +40,6 @@ remote:
 To https://github.com/Lanace/12-Sprint-Mission.git
  * [new branch]      conflict-test -> conflict-test
 branch 'conflict-test' set up to track 'origin/conflict-test'.
+
+week@Iljuui-MacBookAir 12-Sprint-Mission % 
 week@Iljuui-MacBookAir 12-Sprint-Mission % 
